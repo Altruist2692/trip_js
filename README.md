@@ -1,6 +1,6 @@
 # TripJs
 
-For websites, it's quite common that you need to have a tutorial trip to teach new comers how to user your own services. In addition to this, when there is any new feature coming up, you also need that to make sure your hard works do have been seen and used by users. Same like you, we have been making tons of routine works like that and that's why we are going to make a super lightweight library - Trip.js that you can use for most cases ! Hope you will like it :)
+For websites, it's quite common that you need to have a tutorial trip to teach new comers how to user your own services. In addition to this, when there is any new feature coming up, you also need that to make sure your hard works do have been seen and used by users. Same like you, we have been making tons of routine works like that and that's why we are going to make a super lightweight library - [Trip.js](http://eragonj.github.io/Trip.js/) that you can use for most cases ! Hope you will like it :)
 
 ## Browser Support
 
