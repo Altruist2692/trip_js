@@ -1,2 +1,6 @@
 require "trip_js/version"
-require "trip_js/engine"
+
+module TripJs
+  class Engine < Rails::Engine
+  end
+end
