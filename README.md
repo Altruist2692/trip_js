@@ -1,8 +1,10 @@
 # TripJs
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/trip_js`. To experiment with that code, run `bin/console` for an interactive prompt.
+For websites, it's quite common that you need to have a tutorial trip to teach new comers how to user your own services. In addition to this, when there is any new feature coming up, you also need that to make sure your hard works do have been seen and used by users. Same like you, we have been making tons of routine works like that and that's why we are going to make a super lightweight library - Trip.js that you can use for most cases ! Hope you will like it :)
 
-TODO: Delete this and the text above, and describe your gem
+## Browser Support
+
+Trip.js has been tested and it works well on IE 9+, Chrome 32+, Firefox 32+ and Safari 9+
 
 ## Installation
 
@@ -38,4 +40,3 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
